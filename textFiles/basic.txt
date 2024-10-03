@@ -1,0 +1,13 @@
+----------------------------------- BASIC TAILWIND CSS --------------
+
+1. We can use CDN for tailwin or npm package for tailwind css.
+
+2. to install using CLI npm i -D tailwind css npx tailwindcss init
+
+3. after we need to configure the tailwind.config.js path of the files for tailwind
+
+4. next add the tailwind directives directives means it provides the iportant tailwind clasess.
+
+5. npx tailwindcss -i tailwind directive file -o output css file --watch --> it compiles the css 
+
+6. postCSS we can use tailwond using build tools lie webpack vite

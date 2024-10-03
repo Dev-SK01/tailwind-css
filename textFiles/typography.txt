@@ -1,0 +1,22 @@
+------------------------- TYPOGRAPY --------------
+
+1. font-sans , font-serif ,font-mono
+
+2. if we use custom TYPOGRAPY fontd in config js file thme add fotnFamily option and add hte font
+   family name as array fotnFamily :{name:['name']}
+
+------------------------- TEXT SIZE --------------
+
+1. text-xs --> for text sizes , text-sm -text-base , text-lg ,text-xl
+
+2.responsive text sizes --> md:text-lg lg:text-xl
+
+3.extra large font sizes --> upto text-9xl sizes
+
+4. we can customize the text size in theme config
+
+------------------- OTHER FONT CLASESS -------------
+
+1. font-bold , font-extrabold
+
+2. leading-3 , leading-4  , relaxed ,loose , normal --> for line height
