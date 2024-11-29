@@ -1,0 +1,9 @@
+----------------------------- COLORS ----------------
+
+1. In tailwind css there is an background class bg-transparent
+
+2. syntax bg-color-range bg-red-200 range 50-950
+
+3. we can add our custom color in config.js file in exteds add color prop and set prop & value
+
+4. we can use is also text --> test-color-range
